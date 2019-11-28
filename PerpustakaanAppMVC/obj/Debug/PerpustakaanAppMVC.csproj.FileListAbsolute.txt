@@ -1,0 +1,33 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+G:\Kamarudin\Pemrograman Lanjut 2018-2019\Pertemuan 10\to mahasiswa\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+D:\big brain\PerpusMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
